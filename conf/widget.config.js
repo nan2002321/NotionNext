@@ -38,17 +38,38 @@ module.exports = {
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
       name: '风を共に舞う気持ち',
-      artist: 'Falcom Sound Team jdk',
+      artist: 'YGN Playlist',
       url: 'https://music.163.com/song/media/outer/url?id=731419.mp3',
       cover:
         'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     },
     {
       name: '王都グランセル',
-      artist: 'Falcom Sound Team jdk',
+      artist: 'YGN Playlist',
       url: 'https://music.163.com/song/media/outer/url?id=731355.mp3',
       cover:
         'https://p1.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+    {
+      name: '久远寺有珠',
+      artist: 'YGN Playlist',
+      url: 'https://m8.music.126.net/20250317185321/37c07f765a36c90619208ffea908cd81/ymusic/e8bf/2dea/f248/1a3a4de63b85a7a48da8b534626e2e73.flac?vuutv=E28U0n/qIMhbvrYiykaZhOWnAoWV+CwBcAR/J1SKzZsF4rGESQ5daWR5gH8q+Ug6hK+871P+8fyO5bRkq4sY1Ff2N8e1PXt1jXYkmSM/q3I=',
+      cover:
+        'https://p3.music.126.net/mmnd2-wzKU0aIRnzBsGQFQ==/109951170530147837.jpg?param=320y320'
+    },
+    {
+      name: 'God Knows',
+      artist: 'YGN Playlist',
+      url: 'https://music.163.com/song/media/outer/url?id=551337792.mp3',
+      cover:
+        'https://p3.music.126.net/vRpg5LhWgkVEO6hbGPUh_w==/109951165809231238.jpg?param=320y320'
+    },
+    {
+      name: 'ツバサ',
+      artist: 'YGN Playlist',
+      url: 'https://music.163.com/song/media/outer/url?id=2148689064.mp3',
+      cover:
+        'https://p3.music.126.net/xqkkvfp0uHO-GwJi8uDuJA==/109951169527740040.jpg?param=320y320'
     }
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
