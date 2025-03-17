@@ -53,7 +53,7 @@ module.exports = {
     {
       name: '久远寺有珠',
       artist: 'YGN Playlist',
-      url: 'https://m8.music.126.net/20250317185321/37c07f765a36c90619208ffea908cd81/ymusic/e8bf/2dea/f248/1a3a4de63b85a7a48da8b534626e2e73.flac?vuutv=E28U0n/qIMhbvrYiykaZhOWnAoWV+CwBcAR/J1SKzZsF4rGESQ5daWR5gH8q+Ug6hK+871P+8fyO5bRkq4sY1Ff2N8e1PXt1jXYkmSM/q3I=',
+      url: 'https://m8.music.126.net/20250317212212/2f2f14881d7c4e6938d654bc12fa0429/ymusic/e8bf/2dea/f248/1a3a4de63b85a7a48da8b534626e2e73.flac?vuutv=FXMzMD9tYQtruFxk4COquIjN8Hyimr6V0Hu6O6JwHWkbdT6ast/lSDyMlZKM4iab7sA0GLiNSRzUQ0VZWwE8ofhl8btAsBelKYQv6ZhRTAY=',
       cover:
         'https://p3.music.126.net/mmnd2-wzKU0aIRnzBsGQFQ==/109951170530147837.jpg?param=320y320'
     },
